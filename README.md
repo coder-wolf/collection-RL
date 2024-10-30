@@ -19,7 +19,7 @@ I'm sharing my personal learning journey and notes here. Please follow some actu
 
 **Some resources I followed / liked:**
 
-- Lecture: (8/15) [Stanford CS234: Reinforcement Learning](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+- Lecture: [Stanford CS234: Reinforcement Learning](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - Book: [Sutton and Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - Guide: [Open AI | Spinning Up](https://spinningup.openai.com/en/latest/)
 - Code: [Sentdex](https://www.youtube.com/watch?v=yMk_XtIEzH8&list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7)
