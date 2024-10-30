@@ -1,4 +1,4 @@
-This is more of a personal learning journey show and tell sort of repo. Please follow some actual proper resources if you pick up RL.
+I'm sharing my personal learning journey and notes here. Please follow some actual resources if you want to learn RL!
 
 **My learning progress:**
 
